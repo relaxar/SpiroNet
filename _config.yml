@@ -1,0 +1,8 @@
+title: SpiroNet
+description: The .NET C# port of libspiro - conversion between spiro control points and bezier's
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
